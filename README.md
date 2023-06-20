@@ -5,7 +5,7 @@ This is a Python program that predicts weather data (temperature and rainfall) f
 
 1. Clone the repository to your local machine:
 ```console
-git clone https://github.com/your-username/weather-prediction.git
+git clone https://github.com/nerriot/weather-prediction.git
 ```
 
 2. Install the required dependencies. You can use pip to install them:
