@@ -101,11 +101,3 @@ class PredictWeather:
             'avg': average_mm,
             'avg_std': std_mm
         }
-
-
-if __name__ == '__main__':
-    nsk = Point(55.00835, 82.93573, 164)
-
-    pred = PredictWeather(nsk)
-    print(pred.get_predict_temp(datetime(2023, 6, 18)))
-    print(pred.get_predict_rain(datetime(2023, 6, 18)))
